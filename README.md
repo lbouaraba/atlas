@@ -21,7 +21,7 @@ Tested on [enwik](http://mattmahoney.net/dc/textdata.html) (Wikipedia XML), loss
 | 75 KB | 33.2% | **28.3%** | **+14.8%** |
 | 1 MB | 29.1% | **26.9%** | **+7.6%** |
 | 10 MB | 27.2% | **25.7%** | **+5.6%** |
-| 100 MB | 24.8% | **23.1%** | **+6.9%** |
+| 100 MB (enwiki8) | 24.8% | **23.1%** | **+6.9%** |
 
 LZMA tested at maximum compression (`preset=9 | PRESET_EXTREME`).
 
