@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.bin
+*.atlas
+atlas_core/target/
+*.egg-info/
+dist/
+build/
